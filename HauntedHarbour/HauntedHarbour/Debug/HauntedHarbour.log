@@ -1,0 +1,15 @@
+﻿  AirEnemiesObject.cpp
+D:\Work\Stefan\HauntedHarbour\HauntedHarbour\AirEnemiesObject.cpp(43,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Work\Stefan\HauntedHarbour\HauntedHarbour\AirEnemiesObject.cpp(44,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BackgroundObject.cpp
+  BlockObject.cpp
+  BulletObject.cpp
+  GraphicsObject.cpp
+  GreenBulletObject.cpp
+  GroundEnemiesObject.cpp
+  HauntedHarbour.cpp
+  PlayerObject.cpp
+  PurpleBulletObject.cpp
+  WeaponsObject.cpp
+  Generating Code...
+  HauntedHarbour.vcxproj -> D:\Work\Stefan\HauntedHarbour\Debug\HauntedHarbour.exe
